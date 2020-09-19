@@ -8,7 +8,6 @@ import { CardsComponent } from './dashboard/dashboard/cards/cards.component';
 import { ColorsComponent } from './dashboard/dashboard/colors/colors.component';
 
 
-
 @NgModule({
   declarations: [
     AppComponent,
